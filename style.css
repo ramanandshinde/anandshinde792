@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    
+}
+.wapper{
+    height: 100%;
+    width: 100%;
+    background-image: url(/sandro-katalina-k1bO_VTiZSs-unsplash.jpg);
+    background-position: inherit;
+    background-size: cover;
+
+}
+   
+
+.navigation{
+    height: 90px;
+    width: 100%;
+    /* background-color: antiquewhite;  */
+    display: flex;
+}
+.logo {
+    height: 100%;
+    width: 20%;
+
+}
+.logo h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+   color: white;
+   margin-top:2vw;
+   margin-left: 5vw;
+}
+.s1{
+    height: 100%;
+    width: 60%;
+
+}
+.s1 button{
+    padding: 0.4vw 11vw;
+    border-radius: 20px;
+    margin-top: 2vw;
+    margin-left: 5vw;
+    border: none;
+    background-color:white;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.s2{
+    height: 100%;
+    width: 20%;
+}
+.s2 button{
+   margin-top: 2.4vw;
+   padding: 0.4vw 2vw;
+   border-radius: 20px;
+   margin-left: 7vw;
+}
+.box{
+    height: 80%;
+    width: 70%;
+    background-color: black;
+    margin-left: 13vw;
+    border-radius: 20px;
+    background-image: url(/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg);
+    background-position: initial;
+    background-size: cover;
+}
+.box1{
+    height: 100%;
+    width: 100%;
+}
+.box1 h2{
+    color: rgb(252, 250, 250);
+    font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10vw;
+  padding-left: 4vw;
+  font-size: 55px;
+  
+}
+.box1 button{
+    padding: 0.4vw 1.5vw;
+    margin-left: 4vw;
+    margin-top: 2vw;
+    background-color: greenyellow;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.list{
+    height: 25%;
+    width: 100%;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3vw;
+}
+.l1{
+    height: 100%;
+    width: 33%;
+    margin-left: 5vw;
+}
+
+.l2{
+    height: 100%;
+    width: 33%;
+}
+.l3{
+    height: 100%;
+    width: 33%;
+}
+.phone{
+    height: 80%;
+    width: 100%;
+    margin-left: 10vw;  
+    background-image: url(/milad-fakurian-GJKx5lhwU3M-unsplash.jpg);
+    background-position: initial;
+    background-size: cover;
+    display: flex;
+}
+.div1{
+    height: 100%;
+    width: 50%;
+}
+.div1 img{
+    border-radius: 20px;
+    height: 300px;
+margin-top: 7vw;
+margin-right: 4vw;   
+}
+.div2{
+    height: 100%;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5vw;
+}
+.div2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+
+.div2 button {
+    padding: 0.3vw 1vw;
+    border: none;
+    border-radius: 20px;
+    color: blue;
+    margin-top: 2vw;
+    background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
